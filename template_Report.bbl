@@ -1,0 +1,367 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{acc}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Android},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Material design: Accessibility}
+    \verb{url}
+    \verb https://material.io/design/usability/accessibility.html
+    \endverb
+  \endentry
+
+  \entry{button:2}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Android},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Material Design: Color and Contrast}
+    \verb{url}
+    \verb https://material.io/design/components/buttons.html#hierarchy-placemen
+    \verb t
+    \endverb
+  \endentry
+
+  \entry{button:1}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Android},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Material design: Hierarchy and Placement}
+    \verb{url}
+    \verb https://material.io/design/components/buttons.html#hierarchy-placemen
+    \verb t
+    \endverb
+  \endentry
+
+  \entry{icons:1}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Android},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Material design: System Icons}
+    \verb{url}
+    \verb https://material.io/design/iconography/system-icons.html#
+    \endverb
+  \endentry
+
+  \entry{text}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Android},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Material design: Text fields}
+    \verb{url}
+    \verb https://material.io/design/components/text-fields.html#usage
+    \endverb
+  \endentry
+
+  \entry{typog}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Android},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{typography}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Material design: Typography}
+    \verb{url}
+    \verb https://material.io/design/typography/the-type-system.html
+    \endverb
+  \endentry
+
+  \entry{animation}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Animation}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/vis
+    \verb ual-design/animation/
+    \endverb
+  \endentry
+
+  \entry{color}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Color}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/vis
+    \verb ual-design/color/
+    \endverb
+  \endentry
+
+  \entry{feedback}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Feedback}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/use
+    \verb r-interaction/feedback/
+    \endverb
+  \endentry
+
+  \entry{elevation}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Materials}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/vis
+    \verb ual-design/materials/
+    \endverb
+  \endentry
+
+  \entry{modality}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Modality}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/app
+    \verb -architecture/modality/
+    \endverb
+  \endentry
+
+  \entry{popover}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Popovers}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/vie
+    \verb ws/popovers/
+    \endverb
+  \endentry
+
+  \entry{progress}{online}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Apple},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{A2}
+    \strng{fullhash}{A2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Human Interface Guidelines: Progress Indicators}
+    \verb{url}
+    \verb https://developer.apple.com/design/human-interface-guidelines/ios/con
+    \verb trols/progress-indicators/
+    \endverb
+  \endentry
+
+  \entry{joshclark:1}{online}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Josh},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{myths, mobile}
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Seven deadly myths of Mobile}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=_F85eutt82Y
+    \endverb
+  \endentry
+
+  \entry{dev:1}{online}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={Google},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Android API: Fragments}
+    \verb{url}
+    \verb https://developer.android.com/guide/components/fragments
+    \endverb
+  \endentry
+
+  \entry{parcel}{online}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={Google},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \keyw{accessibility,md}
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{addendum}{(accessed: 20.07.2019)}
+    \field{title}{Android API: Parcelable}
+    \verb{url}
+    \verb https://developer.android.com/reference/android/os/Parcelable
+    \endverb
+  \endentry
+\enddatalist
+\endinput
